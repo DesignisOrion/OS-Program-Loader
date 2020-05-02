@@ -26,7 +26,9 @@ The os module allows you to access any operating system used.
 
 ## What did I use
 
+```
 Python 3
+```
 
 ### Installing Python3
 
